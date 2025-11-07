@@ -1,0 +1,115 @@
+{
+  "categories": [
+    {
+      "name": "Pizza",
+      "items": [
+        { "name": "Onion", "price": 89 },
+        { "name": "Cheesy Capsicum", "price": 110 },
+        { "name": "Cheese n Corn", "price": 140 },
+        { "name": "Veg Delight", "price": 140 },
+        { "name": "Pav Bhaji", "price": 140 },
+        { "name": "Mushroom Supreme", "price": 140 },
+        { "name": "Tandoori Paneer", "price": 149 },
+        { "name": "Peri Peri Paneer", "price": 149 },
+        { "name": "Hawaiian Cottage Cheese", "price": 175 }
+      ]
+    },
+    {
+      "name": "Dessert Pizza",
+      "items": [
+        { "name": "Classic Choco (Nutella + choco chips)", "price": 129 },
+        { "name": "Brownie Crush (Nutella + brownie + sauce)", "price": 149 }
+      ]
+    },
+    {
+      "name": "Coffee/Tea",
+      "items": [
+        { "name": "Filter Coffee", "price": 25 },
+        { "name": "Ginger Filter Coffee", "price": 30 },
+        { "name": "Special Black Coffee", "price": 25 },
+        { "name": "Special Tea", "price": 20 },
+        { "name": "Lemon Tea", "price": 20 },
+        { "name": "Green Tea", "price": 20 },
+        { "name": "Black Tea", "price": 20 }
+      ]
+    },
+    {
+      "name": "Milk-based",
+      "items": [
+        { "name": "Turmeric Milk", "price": 20 },
+        { "name": "Badam Milk", "price": 20 },
+        { "name": "Classic Malt/Boost", "price": 25 },
+        { "name": "Hot Chocolate", "price": 30 }
+      ]
+    },
+    {
+      "name": "Mojitos/Iced Tea",
+      "items": [
+        { "name": "Lemon Mojito", "price": 99 },
+        { "name": "Mint Mojito", "price": 99 },
+        { "name": "Peach Iced Tea", "price": 109 },
+        { "name": "Orange Mojito", "price": 125 },
+        { "name": "Raspberry Mojito", "price": 125 },
+        { "name": "Blueberry Mojito", "price": 125 }
+      ]
+    },
+    {
+      "name": "Fries/Wedges",
+      "items": [
+        { "name": "French Fries", "price": 80 },
+        { "name": "Peri Peri Fries", "price": 90 },
+        { "name": "Tandoori Fries", "price": 99 },
+        { "name": "Cheesy Peri Peri Fries", "price": 120 },
+        { "name": "Potato Wedges", "price": 99 },
+        { "name": "Peri Peri Wedges", "price": 110 },
+        { "name": "Tandoori Wedges", "price": 115 },
+        { "name": "Cheesy Wedges", "price": 125 }
+      ]
+    },
+    {
+      "name": "Maggi",
+      "items": [
+        { "name": "Plain Maggi", "price": 39 },
+        { "name": "Veg Maggi", "price": 49 },
+        { "name": "Cheesy Veg Maggi", "price": 65 },
+        { "name": "Cheesy Paneer Maggi", "price": 75 }
+      ]
+    },
+    {
+      "name": "Snacks/Pav",
+      "items": [
+        { "name": "Samosa", "price": 25 },
+        { "name": "Sabudana Vada", "price": 25 },
+        { "name": "Balekai Bajji", "price": 45 },
+        { "name": "Onion Pakoda", "price": 60 },
+        { "name": "Vada Pav", "price": 40 },
+        { "name": "Peri Peri Vada Pav", "price": 50 },
+        { "name": "Tandoori Vada Pav", "price": 50 },
+        { "name": "Cheese Vada Pav", "price": 65 }
+      ]
+    },
+    {
+      "name": "Pav Bhaji",
+      "items": [
+        { "name": "Regular Pav Bhaji", "price": 80 },
+        { "name": "Butter Pav Bhaji", "price": 99 },
+        { "name": "Cheese Pav Bhaji", "price": 99 },
+        { "name": "Paneer Pav Bhaji", "price": 125 },
+        { "name": "Cheesy Paneer Pav Bhaji", "price": 140 }
+      ]
+    },
+    {
+      "name": "Shakes/Lassi",
+      "items": [
+        { "name": "Cold Coffee", "price": 99 },
+        { "name": "Chocolate Shake", "price": 99 },
+        { "name": "Oreo Shake", "price": 99 },
+        { "name": "KitKat Shake", "price": 99 },
+        { "name": "Sweet Lassi", "price": 60 },
+        { "name": "Salt Lassi", "price": 60 },
+        { "name": "Mango Lassi", "price": 85 },
+        { "name": "Strawberry Lassi", "price": 99 }
+      ]
+    }
+  ]
+}
